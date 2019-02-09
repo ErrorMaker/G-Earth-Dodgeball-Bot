@@ -25,4 +25,4 @@ https://github.com/sirjonasxx/G-Earth
 
 # Extension Download;
 
-Download Link: 
+Download Link: https://github.com/DevLooney/G-Earth-Dodgeball-Bot/releases/download/v1.0/Dodgeball.Bot.-.Release.zip
